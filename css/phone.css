@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    /* width: 100%; */
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+margin: 8px;
+background: #00fe99;
+}
